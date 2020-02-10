@@ -1,0 +1,12 @@
+---
+title: "coursera"
+output:
+  html_document: default
+  pdf_document: default
+---
+
+```{r setup, include=FALSE}
+print('hellow Word')
+```
+
+## R. Realização do curso
